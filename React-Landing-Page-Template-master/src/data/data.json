@@ -1,0 +1,182 @@
+{
+  "Header": {
+    "title": "Formulário Oxford",
+    "paragraph": "O Questionário de Felicidade Oxford (QFO) é um instrumento que mede o bem-estar subjetivo, desenvolvido por Hills e Argyle em 2002. O questionário é composto por 20 itens a serem respondidos em uma Escala Likert de seis pontos."
+  },
+  "About": {
+    "paragraph": "Descubra o Poder de Monitorar sua Saúde com Os VALDI Em um mundo onde o bem-estar é prioridade, encontrar um aplicativo que realmente entenda e cuide da sua saúde é essencial. A Instituição Os VALDI se destaca como a escolha perfeita para monitoramento de bem-estar e saúde. Mas por quê?",
+    "Why": [
+      "1. Monitoramento Holístico e Personalizado: Os VALDI oferece uma abordagem completa para o seu bem-estar. Não se trata apenas de contagem de passos ou monitoramento de calorias; é sobre entender cada aspecto da sua saúde. Com análises detalhadas e personalizadas, Os VALDI garante que você tenha um acompanhamento integral."
+    ],
+    "Why2": [
+     " 2. Tecnologia de Ponta: A plataforma utiliza a mais avançada tecnologia para fornecer dados precisos e em tempo real. Seja acompanhando sua frequência cardíaca, níveis de estresse ou qualidade do sono, Os VALDI transforma esses dados em insights acionáveis para uma saúde melhor."
+    ],
+    "Why3": [
+     " 3. Interface Intuitiva e Amigável: A experiência do usuário é uma prioridade para Os VALDI. Com uma interface limpa e fácil de usar, você pode acessar todas as funcionalidades sem complicações, mantendo o foco no que realmente importa: seu bem-estar."
+    ],
+    "Why4": [
+      " 4. Conexão com Especialistas: Os VALDI não é apenas um aplicativo, é uma ponte para um suporte de saúde completo. Conecte-se com especialistas em saúde para consultas e orientação personalizada, garantindo que você tenha o suporte necessário a qualquer hora e em qualquer lugar."
+     ],
+     "Why5": [
+      "5. Comunidade de Bem-Estar: Além de todas as funcionalidades técnicas, Os VALDI oferece uma comunidade de suporte, onde você pode compartilhar experiências e motivar-se mutuamente. Afinal, a jornada para uma vida saudável é sempre mais agradável quando compartilhada."
+     ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Atividades",
+      "text": "Tenha acesso em tempo real da sua atividade diária."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Medidas Corporais",
+      "text": "Cálcule por aqui seu IMC."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Medicaçoes",
+      "text": "Deixe guardado seus medicamentos diários | medicamentos que você possui alergia"
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Saúde Mental",
+      "text": "Preencha regularmente o formulário de Oxford e tenha feedback conntínuo com nossos profissionais"
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Sono",
+      "text": "Regule e monitore seu sono"
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Vitais",
+      "text": "Acompanhe aqui seus Vitais: Pressao, Saturacao, Batimento..."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"oi\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"oi\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"oi",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"oi",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"oi",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"oi",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "Alonso y Alonso - Franca SP",
+    "phone": "+55 16 98765432",
+    "email": "Vald@company.com",
+    "facebook": "fbVald.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-smile",
+      "title": "1-2 - Não Feliz",
+      "text": "Se você respondeu honestamente e obteve esse score baixo, recomendamos que procure observar seu estilo de vida e procure ajuda profissional para compreender melhor esses sentimentos e estabelecer uma avaliação mais apurada desse momento."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "3-5 - Moderadamente Feliz",
+      "text": "Um score entre 3 e 5 pode ser uma média numérica exata de suas respostas de felicidade e infelicidade. Fortaleça, ainda mais, estes sentimentos com estilo de vida saudável, alimentação, laser, trabalho, atividades físicas e relações humanas afetivas e próximas, para se tornar uma pessoa ainda mais feliz."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "5-6 - Muito Feliz",
+      "text": "Se sentir feliz tem mais benefícios do que apenas sentir-sebem, porque a felicidade está relacionada a saúde, qualidade dos relacionamentos e desempenho acadêmico e profissional."
+    }
+  ]
+}
